@@ -1,0 +1,299 @@
+body{
+    background-color: #f0f1f3;
+    padding: 0;
+    margin: 0;
+    height: 130vh;
+
+}
+#head{
+    padding: 12.25px 0px;
+    background-color: white;
+    height: 46px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.fa-xl{
+    position: absolute;
+    top:6%;
+    right: 5.5%;
+}
+.fa-font-awesome{
+    position: absolute;
+    top:6%;
+    left: 5.5%;
+}
+.pra,a{
+    display: block;
+}
+#cont{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 150vh;
+    padding: 20px 20px 0px 20px;
+}
+form{
+    background-color:white;
+    width:33.5%;
+    height: 60%;
+    border-radius: 5px;
+    padding: 44px 20px 163px 30px;
+}
+form h3{
+
+    font-size: medium;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 5px;
+    color: orange;
+    text-align: center;
+    text-transform: uppercase;
+}
+#smile{
+    display: flex;
+    justify-content: center;
+}
+
+form label{
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-bottom: 8px;
+    font-family: 'Josefin Sans', sans-serif;
+        color: rgb(50, 50, 87);
+    font-weight: bold;
+    font-size: 15px;
+}
+form .chi{
+    width:100%;
+    height:57px;
+    border-radius: 10px; 
+    border-color: rgb(87, 111, 143);
+    border-style: groove;
+  
+}
+a{
+    color: rgb(58, 102, 198);
+    /* text-decoration: dotted; */
+    font-family: 'Montserrat', sans-serif;
+    /* text-decoration:wavy; */
+}
+#btn{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+    #top{
+       
+        justify-content: center;
+       
+    }
+#h11{
+    font-family: 'Dosis', sans-serif;
+    justify-content: center;
+    display: flex;
+    letter-spacing: 3px;
+    font-size: 2em;
+    color: rgb(50, 50, 87);
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    display: flex;
+    color: rgb(50, 50, 87);
+}
+#kaka{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(56, 59, 99) ;
+    font-weight: bold;
+}
+.fa-envelope{
+    position: absolute;
+    top:85%;
+    left:35%;
+}
+.fa-lock{
+    position: absolute;
+    top:103%;
+    left:36%;
+}
+#la{
+    display: flex;
+    justify-content: center;
+}
+button{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+
+   align-items: center;
+    width:80%;
+    height:60px;
+    background-color: #ffd43b;
+    border-radius: 15px;
+    border-color:black ;
+    border-width: 3px;
+}
+.fa-right-to-bracket{
+    position: absolute;
+    top:131%;
+    left:60%;
+}
+#pp{
+    display: flex;
+    justify-content: center;
+}
+#meow{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#002e51;
+display: flex;
+align-items: end;
+display: flex;
+justify-content: space-between;
+color:whitesmoke;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 0px;
+height: 85px;
+}
+footer #left{
+    font-size: 15px;
+    width: 45%;
+    display: flex;
+}
+footer #right{
+    font-size: 10px;
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+}
+.fa-copyright{
+    position: absolute;
+    top:179.7%;
+    left:88.2%;
+}
+.fa-star{
+    position: absolute;
+    top:12.7%;
+    left:-2%;
+}
+.fa-building{
+    position: absolute;
+    top:12.7%;
+    left:12%;
+}
+.fa-paper-plane{
+    position: absolute;
+    top:12.7%;
+    left:32%;
+}
+.fa-calendar{
+    position: absolute;
+    top:12.7%;
+    left:52%;
+}
+.fa-comment{
+    position: absolute;
+    top:12.7%;
+    left:72%;
+}
+.fa-bell{
+    position: absolute;
+    top:12.7%;
+    left:92%;
+}
+.fa-thumbs-up{
+    position: absolute;
+    top:32.7%;
+    left:7%;
+}
+.fa-lightbulb{
+    position: absolute;
+    top:32.7%;
+    left:25%;
+}
+.fa-clock{
+    position: absolute;
+    top:32.7%;
+    left:70%;
+}
+.fa-fingerprint{
+    position: absolute;
+    top:32.7%;
+    left:85%;
+}
+.fa-snowflake {
+    position: absolute;
+    top:52.7%;
+    left:2%;
+}
+.fa-bookmark{
+    position: absolute;
+    top:52.7%;
+    left:19%;
+}
+.fa-palette{
+    position: absolute;
+    top:72.7%;
+    left:7%;
+}
+.fa-tv{
+    position: absolute;
+    top:72.7%;
+    left:25%;
+}
+.fa-marker{
+    position: absolute;
+    top:72.7%;
+    left:70%;
+}
+.fa-user{
+    position: absolute;
+    top:72.7%;
+    left:85%;
+}
+.fa-ghost{
+    position: absolute;
+    top:52.7%;
+    left:96%;
+}
+.fa-fingerprint{
+    position: absolute;
+    top:32.7%;
+    left:90%;
+}
+.fa-tablet-screen-button{
+    position: absolute;
+    top:52.7%;
+    left:80%;
+}
+.fa-shrimp{
+    position: absolute;
+    top:52.7%;
+    left:80%;
+}
+.fa-hat-wizard{
+    position: absolute;
+    top:92.7%;
+    left:80%;
+}
+.fa-gem{
+    position: absolute;
+    top:92.7%;
+    left:80%;
+}
+.fa-cake-candles{
+    position: absolute;
+    top:92.7%;
+    left:80%;
+}
+.fa-worm{
+    position: absolute;
+    top:92.7%;
+    left:80%;
+}
